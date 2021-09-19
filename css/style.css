@@ -134,7 +134,7 @@ p {
 
 .title_h1{
     margin-top: 0;
-    font-size: 130px;
+    font-size: 120px;
 }
 
 
@@ -646,12 +646,16 @@ footer >.container> .row >.col-md-4{
         margin-left: 15px;
     }
 
-    /* #Saladeterapia {
-        height:900px;
+    .title_h1{
+        margin-top: 20px;
+        font-size: 90px;
+    }
+    #Saladeterapia {
+        height:830px;
     }
 
     .border_sala {
-        height: 865px; */
+        height: 790px;
     }
 
 }
