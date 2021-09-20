@@ -599,6 +599,14 @@ footer {
 footer >.container> .row >.col-md-4{
         min-width: 380px;
     }
+
+.map_location{
+    margin: 1em;
+}
+
+.google_map{
+    margin: .5em 0;
+}
 /*Querymedia*/
 @media only screen and (max-width: 950px) {
     .card-deck{
@@ -658,4 +666,7 @@ footer >.container> .row >.col-md-4{
         height: 790px;
     }
 
+    .map_location{
+        max-width: 90%;
+    }
 }
